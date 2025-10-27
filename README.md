@@ -51,7 +51,7 @@ Mon parcours me permet de relier **les mondes de l’IA et des télécoms**, en 
 ---
 
 ## 📫 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/merveille.codjo)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/merveillecodjo)  
 - ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)  
 
 ---
