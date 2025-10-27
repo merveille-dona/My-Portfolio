@@ -1,8 +1,8 @@
 # --- Basic Site Info ---
-title: "Portfolio IA & Télécom"
+title: "Merveille Dona CODJO"
 description: "Ingénieure en Télécommunication | Master 2 IA - Données et Connaissances"
 lang: fr
-logo: "img/pic.jpg"
+logo: img/pic.jpg
 
 # --- Theme Configuration ---
 theme: jekyll-theme-minimal
