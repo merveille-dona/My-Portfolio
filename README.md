@@ -1,14 +1,10 @@
-# Merveille Dona CODJO
-Portfolio IA and Data
-# Bienvenue sur mon Portfolio 
-
 🎓 **Ingénieure en Télécommunications** | 💡 **Master 2 en Intelligence Artificielle – Données & Connaissances**  
 📍 Basée en France | 💻 Passionnée par l’IA appliquée aux systèmes intelligents et aux réseaux de communication
 
 ---
 
-## 🚀 À propos de moi
-Je suis une ingénieure en télécommunication actuellement en Master 2 d’Intelligence Artificielle, spécialisée en **data science, machine learning et gestion des connaissances**.  
+## À propos de moi
+Je suis une ingénieure en télécommunication actuellement en Master 2 d’Intelligence Artificielle, spécialisée en **machine learning et gestion des données et connaissances**.  
 Mon parcours me permet de relier **les mondes de l’IA et des télécoms**, en explorant comment les modèles intelligents peuvent **optimiser la performance et l’efficacité énergétique des réseaux modernes**, notamment les réseaux 5G.
 
 🌱 J’aime :
@@ -26,7 +22,7 @@ Mon parcours me permet de relier **les mondes de l’IA et des télécoms**, en 
 | **IA / Data Science** | Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib |
 | **Télécommunications** | Réseaux 5G, signaux numériques, optimisation énergétique |
 | **Outils Dev** | Git, Linux, Jupyter, VSCode |
-| **Langues** | Français 🇫🇷, Anglais 🇬🇧 |
+| **Langues** | Français, Anglais |
 
 ---
 
@@ -55,9 +51,8 @@ Mon parcours me permet de relier **les mondes de l’IA et des télécoms**, en 
 ---
 
 ## 📫 Me contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil)  
-- 🧠 [Portfolio](https://ton-site.dev) *(si tu en as un)*  
-- ✉️ [ton.email@exemple.com](mailto:ton.email@exemple.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/merveille.codjo)  
+- ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)  
 
 ---
 
