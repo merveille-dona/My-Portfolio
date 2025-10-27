@@ -1,9 +1,3 @@
-title: "Merveille Dona CODJO"
-logo: img/pic.jpg
-description: "Portfolio IA -Data "
-show_downloads: true
-theme: jekyll-theme-minimal
-lang: fr
 # --- Basic Site Info ---
 title: "Portfolio IA & Télécom"
 description: "Ingénieure en Télécommunication | Master 2 IA - Données et Connaissances"
@@ -14,6 +8,7 @@ logo: "img/pic.jpg"
 theme: jekyll-theme-minimal
 show_downloads: false   # only true if you want a download button
 google_analytics: "UA-XXXXXXXXX-X"  # optional, for site analytics
+
 
 # --- Author Information ---
 author:
