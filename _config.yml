@@ -6,7 +6,7 @@ logo: img/pic.jpg
 
 # --- Theme Configuration ---
 theme: jekyll-theme-minimal
-show_downloads: true   # only true if you want a download button
+show_downloads: false   # only true if you want a download button
 
 
 # --- Author Information ---
@@ -25,26 +25,5 @@ social_links:
   - name: Email
     url: "merveilledonacodjo@gmail.com"
 
-# --- UI / Layout Customization ---
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-
-# --- Build Settings ---
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # --- URL & Metadata ---
 url: "https://merveille-dona.github.io"
-baseurl: ""   # leave empty unless you use a custom subpath
