@@ -6,8 +6,7 @@ logo: img/pic.jpg
 
 # --- Theme Configuration ---
 theme: jekyll-theme-minimal
-show_downloads: false   # only true if you want a download button
-google_analytics: "UA-XXXXXXXXX-X"  # optional, for site analytics
+show_downloads: true   # only true if you want a download button
 
 
 # --- Author Information ---
