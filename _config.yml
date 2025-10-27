@@ -1,6 +1,56 @@
 title: "Merveille Dona CODJO"
 logo: img/pic.jpg
-description: "Portfolio IA -Data"
+description: "Portfolio IA -Data "
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
+# --- Basic Site Info ---
+title: "Portfolio IA & Télécom"
+description: "Ingénieure en Télécommunication | Master 2 IA - Données et Connaissances"
+lang: fr
+logo: "img/pic.jpg"
+
+# --- Theme Configuration ---
+theme: jekyll-theme-minimal
+show_downloads: false   # only true if you want a download button
+google_analytics: "UA-XXXXXXXXX-X"  # optional, for site analytics
+
+# --- Author Information ---
+author:
+  name: "Merveille Dona CODJO"
+  email: "merveilledonacodjo@gmail.com"
+  linkedin: "https://www.linkedin.com/in/merveillecodjo/"
+  github: "https://github.com/merveille-dona"
+
+# --- Custom Options (Jekyll-Minimal supports these) ---
+social_links:
+  - name: LinkedIn
+    url:  "https://www.linkedin.com/in/merveillecodjo/"
+  - name: GitHub
+    url: "https://github.com/merveille-dona"
+  - name: Email
+    url: "merveilledonacodjo@gmail.com"
+
+# --- UI / Layout Customization ---
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# --- Build Settings ---
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# --- URL & Metadata ---
+url: "https://merveille-dona.github.io"
+baseurl: ""   # leave empty unless you use a custom subpath
