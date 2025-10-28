@@ -24,11 +24,11 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 
 | Catégorie | Compétences clés |
 |------------|-----------------|
-| **Langages | Python, SQL, HTML|
+| **Langages** | Python, SQL, HTML|
 | **IA & Data Science** | Machine Learning & Deep Learning, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, LLMs |
 | **Télécommunications** | réseaux (CISCO), cybersécurité, traitement des signaux |
 | **Outils & Environnements** | Git, Linux, Jupyter, VSCode, Docker |
-| **Langues** | Français (natif), Anglais (professionnel) |
+| **Langues** | Français , Anglais|
 
 
 
@@ -39,13 +39,12 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 > **Technos :** Python, Scikit-learn, Pandas, NumPy   
 > **Rôle :** Développement du pipeline de données et entraînement des modèles machines learning.  
 
----
 
 ### 🔹 [Analyse de données IoT et classification de capteurs](https://github.com/merveille-dona/iot-sensor-analysis)
 > **Objectif :** Analyser des données de capteurs IoT pour identifier des comportements anormaux.  
 > **Technos :** Python, Pandas, KMeans, Seaborn  
 > **Résultats :** Amélioration de la détection d’anomalies de 12 % avec un clustering semi-supervisé.  
----
+
 
 ### 🔹 [Extraction de connaissances à partir de documents techniques](https://github.com/merveille-dona/knowledge-extraction-ai)
 > **Objectif :** Construire un système d’extraction de connaissances basé sur NLP pour des rapports techniques.  
@@ -53,5 +52,4 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 > **Résultats :** Pipeline capable d’extraire automatiquement des entités et relations métier à partir de textes longs.  
 
 
-⭐ **"Le monde n’attend plus seulement des acteurs de l’IA, mais des pionniers capables de créer des innovations responsables et impactantes"** ⭐
-<p>Merci d'avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer sur tout projet passionnant sur l'IA, la cybersécurité, la prise de parole</p>
+<p  align="center">Merci d'avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer sur tout projet passionnant sur l'IA, la cybersécurité, la prise de parole</p>
