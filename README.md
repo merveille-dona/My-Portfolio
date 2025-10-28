@@ -1,26 +1,20 @@
 🎓 **PHD Candidate** | **Master en Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
 
-<p align="center">
-  <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=D14836" alt="Email" width="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="30"/>
-  </a>
-</p>
-
 ## Qui est Merveille Dona CODJO?
 <p>Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
 Grâce à ses excellents résultats, elle a été sélectionnée parmi les bénéficiaires de la bourse ANITI (Artificial and Natural Intelligence Toulouse Institute), edition 2025. Ce programme soutient les jeunes talents souhaitant se spécialiser dans le domaine de l’intelligence artificielle et leur offre l’opportunité d’évoluer au sein d’un écosystème d’innovation et de recherche, favorisant le développement de projets à fort impact sociétal.
 Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.</p>
-
 <p align="center">
+  <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=D14836" alt="Email" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="30"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://drive.google.com/your-lien-CV" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Consulter le CV">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="docs/CV.pdf" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger le CV">
   </a>
 </p>
 
@@ -36,7 +30,7 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 | **Outils & Environnements** | Git, Linux, Jupyter, VSCode, Docker |
 | **Langues** | Français (natif), Anglais (professionnel) |
 
----
+
 
 ## 📂 Projets réalisés
 
