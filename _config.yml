@@ -2,6 +2,7 @@
 title: "Merveille Dona CODJO"
 lang: fr
 logo: img/pic.jpg
+show_description: false
 
 # --- Theme Configuration ---
 theme: jekyll-theme-minimal
