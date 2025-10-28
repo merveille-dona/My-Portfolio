@@ -2,11 +2,10 @@
 
 <p align="center">
   <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=D14836" alt="Email" width="30"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="30"/>
   </a>
 </p>
 
