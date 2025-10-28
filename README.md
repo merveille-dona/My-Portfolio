@@ -1,4 +1,4 @@
-🎓 **PHD Candidate** | **Master en Informatique, spécialité Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
+🎓 **PHD Candidate** | **Master en Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
 
 
 ## Qui est Merveille Dona CODJO?
@@ -7,10 +7,12 @@ Grâce à ses excellents résultats, elle a été sélectionnée parmi les bén�
 Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.
 
 <p align="center">
-  <a href="https://drive.google.com/your-lien-CV">📄 Consulter mon CV</a>
-  <br/><br/>
-  <a href="docs/CV.pdf">
-    <img src="https://img.shields.io/badge/Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger mon CV">
+  <a href="https://drive.google.com/your-lien-CV" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Consulter le CV">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="docs/CV.pdf" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger le CV">
   </a>
 </p>
 
