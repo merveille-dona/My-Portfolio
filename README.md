@@ -2,9 +2,9 @@
 
 
 ## Qui est Merveille Dona CODJO?
-Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
+<p>Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
 Grâce à ses excellents résultats, elle a été sélectionnée parmi les bénéficiaires de la bourse ANITI (Artificial and Natural Intelligence Toulouse Institute), edition 2025. Ce programme soutient les jeunes talents souhaitant se spécialiser dans le domaine de l’intelligence artificielle et leur offre l’opportunité d’évoluer au sein d’un écosystème d’innovation et de recherche, favorisant le développement de projets à fort impact sociétal.
-Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.
+Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.</p>
 
 <p align="center">
   <a href="https://drive.google.com/your-lien-CV" target="_blank" style="text-decoration:none;">
@@ -56,12 +56,6 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 - ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)
 
 
-### 👀 Aperçu
-
-<p align="center">
-  <img src="./assets/CV_preview.png" alt="Aperçu de mon CV" width="600">
-</p>
-
 
 ⭐ **"Le monde n’attend plus seulement des acteurs de l’IA, mais des pionniers capables de créer des innovations responsables et impactantes"** ⭐
-Merci d'avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer sur tout projet passionnant sur l'IA, la cybersécurité, la prise de parole
+<p>Merci d'avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer sur tout projet passionnant sur l'IA, la cybersécurité, la prise de parole</p>
