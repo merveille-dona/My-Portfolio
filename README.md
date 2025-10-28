@@ -1,5 +1,14 @@
 🎓 **PHD Candidate** | **Master en Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
 
+<p align="center">
+  <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-📧-white?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
+    <img src="https://img.shields.io/badge/-💼-white?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+</p>
 
 ## Qui est Merveille Dona CODJO?
 <p>Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
@@ -49,12 +58,6 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 > **Objectif :** Construire un système d’extraction de connaissances basé sur NLP pour des rapports techniques.  
 > **Technos :** SpaCy, Scikit-learn, TF-IDF  
 > **Résultats :** Pipeline capable d’extraire automatiquement des entités et relations métier à partir de textes longs.  
-
-
-## 📫 Me Contacter
-- 💼 [LinkedIn](https://www.linkedin.com/in/merveillecodjo)  
-- ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)
-
 
 
 ⭐ **"Le monde n’attend plus seulement des acteurs de l’IA, mais des pionniers capables de créer des innovations responsables et impactantes"** ⭐
