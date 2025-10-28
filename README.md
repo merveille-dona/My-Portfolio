@@ -7,12 +7,13 @@ Grâce à ses excellents résultats, elle a été sélectionnée parmi les bén�
 Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.
 
 <p align="center">
-   [CV ](https://drive.google.com/your-lien-CV)
+  <a href="https://drive.google.com/your-lien-CV">📄 Consulter mon CV</a>
+  <br/><br/>
   <a href="docs/CV.pdf">
     <img src="https://img.shields.io/badge/Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger mon CV">
   </a>
-  <br/>
 </p>
+
 
 ---
 ## 🧠 Compétences
