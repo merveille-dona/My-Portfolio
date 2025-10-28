@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-📧-white?style=flat-square&logo=microsoft-outlook&logoColor=0078D4" alt="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30"/>
   </a>
 </p>
 
