@@ -1,13 +1,20 @@
 🎓 **PHD Candidate** | **Master en Informatique, spécialité Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
-📍 Basée en France 
-Bienvenue sur mon portfolio!
+
 
 ## Qui est Merveille Dona CODJO?
 Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
 Grâce à ses excellents résultats, elle a été sélectionnée parmi les bénéficiaires de la bourse ANITI (Artificial and Natural Intelligence Toulouse Institute), edition 2025. Ce programme soutient les jeunes talents souhaitant se spécialiser dans le domaine de l’intelligence artificielle et leur offre l’opportunité d’évoluer au sein d’un écosystème d’innovation et de recherche, favorisant le développement de projets à fort impact sociétal.
 Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.
 
+<p align="center">
+   [CV ](https://drive.google.com/your-lien-CV)
+  <a href="docs/CV.pdf">
+    <img src="https://img.shields.io/badge/Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger mon CV">
+  </a>
+  <br/>
+</p>
 
+---
 ## 🧠 Compétences
 
 | Catégorie | Compétences clés |
@@ -44,19 +51,7 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 ## 📫 Me Contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/merveillecodjo)  
 - ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)
-- 📄 Mon CV
 
-<p align="center">
-  <a href="docs/CV.pdf">
-    <img src="https://img.shields.io/badge/CV-Télécharger-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger mon CV">
-  </a>
-  <br/>
-  <em>📌 Télélécharger mon CV au format PDF.</em>
-</p>
-
-👉 [Consulter mon CV sur Google Drive](https://drive.google.com/your-lien-CV)
-
----
 
 ### 👀 Aperçu
 
