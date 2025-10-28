@@ -20,18 +20,6 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 
 
 ---
-## 🧠 Compétences
-
-| Catégorie | Compétences clés |
-|------------|-----------------|
-| **Langages** | Python, SQL, HTML|
-| **IA & Data Science** | Machine Learning & Deep Learning, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, LLMs |
-| **Télécommunications** | réseaux (CISCO), cybersécurité, traitement des signaux |
-| **Outils & Environnements** | Git, Linux, Jupyter, VSCode, Docker |
-| **Langues** | Français , Anglais|
-
-
-
 ## 📂 Projets réalisés
 
 ### 🔹 [Détection de l’énergie dans les réseaux 5G avec Machine Learning](https://github.com/merveille-dona/5g-energy-detection)
