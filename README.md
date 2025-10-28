@@ -1,60 +1,55 @@
-🎓 **Ingénieure en Télécommunications** | 💡 **Master 2 en Intelligence Artificielle – Données & Connaissances**  
-📍 Basée en France | 💻 Passionnée par l’IA appliquée aux systèmes intelligents et aux réseaux de communication
+🎓 **PHD Candidate** | **Master en Informatique, spécialité Intelligence Artificielle – Données & Connaissances**  | **Ingénieure en Télécommunications**
+📍 Basée en France 
+Bienvenue sur mon portfolio!
+
+## Qui est Merveille Dona CODJO?
+Merveille Dona CODJO est une étudiante en Master2 d’Intelligence Artificielle à l’Université Paul Sabatier Toulouse III. Elle a obtenu un diplôme d’ingénieur avec mention très bien en Télécommunications et Technologies Numériques de l’Institut National des Télécommunications et Technologies de l’Information et de la Communication d’Oran, en Algérie. Son parcours multidisciplinaire lui permet d’aborder les défis de l’intelligence artificielle tant sous un angle théorique que pratique.
+
+Durant son coursus, elle a eu l’opportunité d’effectuer un stage de recherche au sein du laboratoire IRIT (Institut de Recherche en Informatique de Toulouse), où elle a pu acquérir une expérience dans la manipulation de grands modèles de langage (LLMs) ainsi que dans l’utilisation de diverses techniques d’apprentissage automatique. Grâce à ses excellents résultats, elle a été sélectionnée parmi les bénéficiaires de la bourse ANITI (Artificial and Natural Intelligence Toulouse Institute), edition 2025. Ce programme soutient les jeunes talents souhaitant se spécialiser dans le domaine de l’intelligence artificielle et leur offre l’opportunité d’évoluer au sein d’un écosystème d’innovation et de recherche, favorisant le développement de projets à fort impact sociétal.
+
+Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.
+
+
+## Compétences
+
+| Catégorie | Compétences clés |
+|------------|-----------------|
+| **Langages | Python, SQL, HTML|
+| **IA & Data Science** | Machine Learning & Deep Learning, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, LLMs |
+| **Télécommunications** | réseaux (CISCO), cybersécurité, traitement des signaux |
+| **Outils & Environnements** | Git, Linux, Jupyter, VSCode, Docker |
+| **Langues** | Français (natif), Anglais (professionnel) |
 
 ---
 
-## À propos de moi
-Je suis une ingénieure en télécommunication actuellement en Master 2 d’Intelligence Artificielle, spécialisée en **machine learning et gestion des données et connaissances**.  
-Mon parcours me permet de relier **les mondes de l’IA et des télécoms**, en explorant comment les modèles intelligents peuvent **optimiser la performance et l’efficacité énergétique des réseaux modernes**, notamment les réseaux 5G.
+## 📂 Projets réalisés
 
-🌱 J’aime :
-- Transformer des données complexes en connaissances exploitables  
-- Expérimenter avec des architectures IA appliquées aux réseaux intelligents  
-- Collaborer sur des projets open source ou innovants en IA & télécom  
+### 🔹 [Détection de l’énergie dans les réseaux 5G avec Machine Learning](https://github.com/merveille-dona/5g-energy-detection)
+> **Objectif :** Utiliser des modèles de Machine Learning pour détecter et prédire la quantité d'énergie consommée par un réseau de base5G.  
+> **Technos :** Python, Scikit-learn, Pandas, NumPy   
+> **Rôle :** Développement du pipeline de données et entraînement des modèles machines learning.  
 
 ---
 
-## 🧠 Domaines de compétence
-
-| Catégorie | Compétences principales |
-|------------|-------------------------|
-| **Langages** | Python, SQL, Bash |
-| **IA / Data Science** | Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib |
-| **Télécommunications** | Réseaux 5G, signaux numériques, optimisation énergétique |
-| **Outils Dev** | Git, Linux, Jupyter, VSCode |
-| **Langues** | Français, Anglais |
-
----
-
-## 📂 Projets
-
-### 🔹 [Détection de l’énergie dans les réseaux 5G avec Machine Learning](https://github.com/ton-utilisateur/5g-energy-detection)
-> **Objectif :** Utiliser des modèles de Machine Learning pour détecter et prédire les variations d’énergie dans les réseaux 5G.  
-> **Technos :** Python, Scikit-learn, Pandas, NumPy  
-> **Résultats :** Réduction des fluctuations énergétiques détectées de 18 % grâce à un modèle Random Forest optimisé.  
-> **Rôle :** Développement du pipeline de données et entraînement des modèles.  
-
----
-
-### 🔹 [Analyse de données IoT et classification de capteurs](https://github.com/ton-utilisateur/iot-sensor-analysis)
+### 🔹 [Analyse de données IoT et classification de capteurs](https://github.com/merveille-dona/iot-sensor-analysis)
 > **Objectif :** Analyser des données de capteurs IoT pour identifier des comportements anormaux.  
 > **Technos :** Python, Pandas, KMeans, Seaborn  
 > **Résultats :** Amélioration de la détection d’anomalies de 12 % avec un clustering semi-supervisé.  
 
 ---
 
-### 🔹 [Extraction de connaissances à partir de documents techniques](https://github.com/ton-utilisateur/knowledge-extraction-ai)
+### 🔹 [Extraction de connaissances à partir de documents techniques](https://github.com/merveille-dona/knowledge-extraction-ai)
 > **Objectif :** Construire un système d’extraction de connaissances basé sur NLP pour des rapports techniques.  
 > **Technos :** SpaCy, Scikit-learn, TF-IDF  
 > **Résultats :** Pipeline capable d’extraire automatiquement des entités et relations métier à partir de textes longs.  
 
 ---
 
-## 📫 Me contacter
+## 📫 Me Contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/merveillecodjo)  
 - ✉️ [merveilledonacodjo@gmail.com](mailto:merveilledonacodjo@gmail.com)  
 
 ---
 
-⭐ **"Les réseaux intelligents de demain combinent données, IA et efficacité énergétique."**  
-Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter pour collaborer sur des sujets IA & télécoms.
+⭐ **"Le monde n’attend plus seulement des acteurs de l’IA, mais des pionniers capables de créer des innovations responsables et impactantes"** ⭐
+Merci d'avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer sur tout projet passionnant sur l'IA, la cybersécurité, la prise de parole
