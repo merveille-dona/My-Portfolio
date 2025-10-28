@@ -6,11 +6,11 @@ Grâce à ses excellents résultats, elle a été sélectionnée parmi les bén�
 Au-delà de la recherche, Merveille est passionnée par la prise de parole en public. Elle a notamment remporté l’édition 2022 du Concours Eloquentia Oran. Merveille est motivée à collaborer avec des professionnels et des organisations engagés dans des innovations en IA à fort impact et durables.  Ce qui l'anime avant tout, c’est de mettre l’IA au service de l’humanité.</p>
 <p align="center">
   <a href="mailto:merveilledonacodjo@gmail.com" target="_blank">
-    <img src="img/email.png" width="30"
+    <img src="img/email.png" width="40">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/merveillecodjo/" target="_blank">
-    <img src="img/linkedin.png" width="30">
+    <img src="img/linkedin.png" width="50">
   </a>
   &nbsp;&nbsp;
   <a href="https://drive.google.com/your-lien-CV" target="_blank" style="text-decoration:none;">
