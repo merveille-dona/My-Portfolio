@@ -22,8 +22,8 @@ Au-delà de la recherche, Merveille est passionnée par la prise de parole en pu
 ---
 ## 📂 Projets réalisés
 
-### 🔹 [Détection de l’énergie dans les réseaux 5G avec Machine Learning](https://github.com/merveille-dona/5g-energy-detection)
-> **Objectif :** Utiliser des modèles de Machine Learning pour détecter et prédire la quantité d'énergie consommée par un réseau de base5G.  
+### 🔹 [Prediction of Energy Consumption in 5G Base Station using Machine Learning](https://github.com/merveille-dona/5g-energy-prediction)
+> **Objectif :** Utiliser des modèles de Machine Learning pour prédire la quantité d'énergie consommée par un réseau de base 5G.  
 > **Technos :** Python, Scikit-learn, Pandas, NumPy   
 > **Rôle :** Développement du pipeline de données et entraînement des modèles machines learning.  
 
